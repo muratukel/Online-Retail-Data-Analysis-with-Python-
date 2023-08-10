@@ -10,6 +10,18 @@ The 6-digit 'InvoiceNo' uniquely identifies each transaction, with transactions 
 
 This dataset is a valuable resource for researchers and data scientists interested in understanding e-commerce transactions, customer behaviors, trend analysis, demand forecasting, and more."
 
+| Field       | Description                                                                                                 |
+|-------------|-------------------------------------------------------------------------------------------------------------|
+| InvoiceNo   | Invoice number. A 6-digit integer uniquely assigned to each transaction. If starts with 'c', it's a cancel. |
+| StockCode   | Product code. A 5-digit integer uniquely assigned to each different product.                                |
+| Description | Product name.                                                                                               |
+| Quantity    | Quantity of each product (item) per transaction. Numerical data.                                            |
+| InvoiceDate | Invoice Date and time. Numeric data, the day and time each transaction was created.                         |
+| UnitPrice   | Unit price. Numerical data, product price per unit in pounds sterling.                                      |
+| CustomerID  | Customer number. A 5-digit integer assigned individually to each customer.                                  |
+| Country     | Country name. Name of the country of residence of each client.                                              |
+
+
 ## Dataset link ;
 http://archive.ics.uci.edu/dataset/352/online+retail
 
