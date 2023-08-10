@@ -10,7 +10,8 @@ The 6-digit 'InvoiceNo' uniquely identifies each transaction, with transactions 
 
 This dataset is a valuable resource for researchers and data scientists interested in understanding e-commerce transactions, customer behaviors, trend analysis, demand forecasting, and more."
 
-
+## Dataset link ;
+http://archive.ics.uci.edu/dataset/352/online+retail
 
 
 
